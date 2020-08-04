@@ -12,7 +12,7 @@
     "are-we-flow-yet": "^1.0.0",
     "browserify": "^13.0.0",
     "bundle-collapser": "^1.0.0",
-    "eslint": "^2.4.0",
+    "eslint": "^7.6.0",
     "exorcist": "^0.4.0",
     "flow-bin": "^0.22.0",
     "random-js": "^1.0.4",
